@@ -8,4 +8,4 @@ _hat eine große Leidenschaft für die Digitalisierung in Baubranche._
 - Wandern
 - Dokus
 
-![Visitor Count](https : //profile-counter.glitch.me/SevketErsan/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/sevketersan/count.svg)
