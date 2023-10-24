@@ -8,4 +8,6 @@ _hat eine große Leidenschaft für die Digitalisierung in Baubranche._
 - Wandern
 - Dokus
 
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+
 ![Visitor Count](https://profile-counter.glitch.me/sevketersan/count.svg)
